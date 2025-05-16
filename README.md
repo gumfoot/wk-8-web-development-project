@@ -1,5 +1,7 @@
 Food Blog Website
+
 Project Description
+
 This is a multi-page responsive Food Blog Website built using HTML5, CSS3, and JavaScript. It features a clean design, smooth navigation between pages (Home, About, Contact), and interactivity such as form validation and image sliders. The site is fully responsive and optimized for both desktop and mobile devices.
 
 Features
@@ -16,7 +18,6 @@ Deployed live on GitHub Pages
 How to Run / Setup
 Clone this repository:
 
-bash
 Copy code
 git clone https://github.com/gumfoot/wk-8-web-development-project.git  
 Open the folder in your code editor or file explorer.
